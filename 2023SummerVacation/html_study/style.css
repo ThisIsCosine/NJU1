@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root{
+    --primary: #396dff;
+    --grey: #f7f7f7;
+    --white: #fff;
+
+    --xs: 4px;
+    --s: 8px;
+    --m: 16px;
+    --l: 24px;
+}
+
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.u-textCenter{
+    text-align: center;
+}
+
+.navTitle{
+    margin: 0px;
+    color: var(--white);
+    font-size: 20px;
+}
+
+.navContainer{
+    margin: 0px;
+    background-color: var(--primary);
+    padding: var(--s) var(--m);
+}
+
+.avatar{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+    /* div height to be the same as the width*/
+    padding-top: 100%;
+
+    /*make it a circle*/
+    border-radius: 50%;
+
+    /*Add image*/
+    background-image: url("../catbook-react/client/dist/player-icons/red.png");
+
+    /*Centering on the image center*/
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    
+    /*It makes the clue thing, take smaller dimension to fill div*/
+    background-size: cover;
+
+    /*It is optional, for making this div centered in its parnet*/
+    margin: 0 auto;
+
+}
+
+.avatarContainer{
+    padding: 0% 35%; 
+}

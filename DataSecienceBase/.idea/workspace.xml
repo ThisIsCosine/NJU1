@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2423d77d-5f47-4dee-828e-ed1467b6c887" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../JAVA letcode/out/production/JAVA letcode/StringToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA letcode/out/production/JAVA letcode/StringToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../信管研讨论文/221250104 于翔 信息社会与信息管理课程论文 .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../信管研讨论文/信息管理研讨课.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../信管研讨论文/千图_小清新金融分析师年终述职汇报PPT模板_图片编号33220310.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Rjlr77eBHfCO30YQF88sb43O2o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/study/GradeOne2/DataSecienceBase",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2423d77d-5f47-4dee-828e-ed1467b6c887" name="Changes" comment="" />
+      <created>1687771566899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687771566899</updated>
+      <workItem from="1687771568121" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
